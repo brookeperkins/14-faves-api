@@ -33,7 +33,7 @@ describe('app routes', () => {
     return client.end(done);
   });
 
-  skip('returns api search results', async(done) => {
+  test('returns api search results', async(done) => {
     const expectation =
     {
       'drinks': [
