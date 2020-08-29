@@ -1,18 +1,18 @@
 module.exports = [
   {
     strdrink: 'Applecar',
-    strGlass: 'Cocktail glass',
+    strglass: 'Cocktail glass',
   },
   {
     strdrink: 'Rum Punch',
-    strGlass: 'Punch bowl'
+    strglass: 'Punch bowl'
   },
   {
     strdrink: 'Mai Tai',
-    strGlass: 'Collins glass'
+    strglass: 'Collins glass'
   },
   {
     strdrink: 'Casa Blanca',
-    strGlass: 'Cocktail glass'
+    strglass: 'Cocktail glass'
   }
 ];
